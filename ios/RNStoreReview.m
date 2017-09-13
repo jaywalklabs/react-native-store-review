@@ -1,5 +1,6 @@
 #import "RNStoreReview.h"
-#import <StoreKit/SKStoreReviewController.h>
+#import <StoreKit/StoreKit.h>
+
 
 @implementation RNStoreReview
 
